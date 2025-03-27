@@ -1,2 +1,1 @@
-# FakeNewz
-Project
+# Project
